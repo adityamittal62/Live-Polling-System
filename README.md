@@ -38,3 +38,5 @@ Deployed online for remote participation — works just like a classroom quiz pl
 ```bash
 git clone https://github.com/yourusername/live-polling-system.git
 cd live-polling-system
+
+made by aditya mittal
